@@ -1,3 +1,19 @@
+body {
+  background-image: url('../waterfall.jpg');
+  height: 100%;
+  width: 100%;
+  background-size: 1440px 720px;
+}
+
+.title {
+  color: white;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+  position: relative;
+  top: 140px;
+  left: 50px;
+}
+
 .todo-list {
   margin: 0 auto;
   margin-top: 75px;
