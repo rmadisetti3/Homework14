@@ -15,9 +15,9 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
+    "username": "b29eb56c4f2270",
+    "password": "f081ca31",
+    "database": "heroku_0cce05e05671392",
     "host": "127.0.0.1",
     "dialect": "mysql"
   }
